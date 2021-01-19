@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "29R9JVSKx3dkQ1nJ2vP3e7y+HMwz4JWBts39P4x+uD1UM9EU4zkd+WHwm2ZhHYX8JugP4/nqRpN0nsdI6UH4Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vikrant Chitte\\Source\\SeriloggerAPI\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vikrant Chitte\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512"
+  ],
+  "logs": []
+}

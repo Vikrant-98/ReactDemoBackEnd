@@ -1,0 +1,727 @@
+11/19/2020 13:11:37 application startup
+11/19/2020 13:11:38 HTTP "GET" "/swagger" responded 301 in 34.7000 ms
+11/19/2020 13:11:38 HTTP "GET" "/swagger/index.html" responded 200 in 61.1207 ms
+11/19/2020 13:11:38 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 71.6400 ms
+11/19/2020 13:11:38 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 73.9260 ms
+11/19/2020 13:11:38 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 99.8079 ms
+11/19/2020 13:11:39 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 167.1136 ms
+11/19/2020 13:11:45 Get Employee's Details
+11/19/2020 13:11:46 All Employee Details
+11/19/2020 13:11:46 HTTP "GET" "/api/Base" responded 200 in 957.5343 ms
+11/19/2020 13:18:23 Add Employee's Details
+11/19/2020 13:18:26 Added Employee's Details Succesfully
+11/19/2020 13:18:26 Employee's Details System.Collections.Generic.List`1[CommonLayer.Responce.EmployeeResponce]
+11/19/2020 13:18:26 HTTP "POST" "/api/Base" responded 200 in 2774.4730 ms
+11/19/2020 13:24:34 Get Employee's Details
+11/19/2020 13:24:34 All Employee Details
+11/19/2020 13:24:34 HTTP "GET" "/api/Base" responded 200 in 20.0661 ms
+11/19/2020 18:24:11 application startup
+11/19/2020 18:24:14 HTTP "GET" "/swagger" responded 301 in 46.9051 ms
+11/19/2020 18:24:14 HTTP "GET" "/swagger/index.html" responded 200 in 85.7266 ms
+11/19/2020 18:24:15 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 138.3138 ms
+11/19/2020 18:24:15 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 151.6965 ms
+11/19/2020 18:24:15 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 173.9093 ms
+11/19/2020 18:24:15 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 154.6034 ms
+11/19/2020 18:27:33 Get Employee's Details
+11/19/2020 18:27:34 All Employee Details
+11/19/2020 18:27:34 HTTP "GET" "/api/Base" responded 200 in 723.2312 ms
+11/19/2020 19:01:26 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 11.5677 ms
+11/19/2020 19:01:26 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 28.5208 ms
+11/19/2020 19:01:26 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 29.8432 ms
+11/19/2020 19:01:26 HTTP "GET" "/swagger/swagger-ui.css.map" responded 404 in 11.0990 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/index.html" responded 200 in 3.1110 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 31.1142 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 35.2660 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 64.2361 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/swagger-ui.css.map" responded 404 in 0.3484 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 1.2750 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.8384 ms
+11/19/2020 19:02:39 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 52.0541 ms
+11/20/2020 10:52:18 application startup
+11/20/2020 10:52:31 HTTP "GET" "/swagger" responded 301 in 24.2249 ms
+11/20/2020 10:52:31 HTTP "GET" "/swagger/index.html" responded 200 in 55.3872 ms
+11/20/2020 10:52:31 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 46.6966 ms
+11/20/2020 10:52:31 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 55.7854 ms
+11/20/2020 10:52:31 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 65.7728 ms
+11/20/2020 10:52:34 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 135.4536 ms
+11/20/2020 10:52:37 HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 2.1130 ms
+11/20/2020 10:54:58 Get Employee's Details
+11/20/2020 10:55:04 All Employee Details
+11/20/2020 10:55:05 HTTP "GET" "/api/Base" responded 200 in 10807.6206 ms
+01/18/2021 21:44:48 application startup
+01/18/2021 21:45:25 HTTP "GET" "/swagger" responded 301 in 494.7077 ms
+01/18/2021 21:45:28 HTTP "GET" "/swagger/index.html" responded 200 in 1420.6157 ms
+01/18/2021 21:45:30 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 2264.3640 ms
+01/18/2021 21:45:30 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 2320.3097 ms
+01/18/2021 21:45:31 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 2472.9500 ms
+01/18/2021 21:45:37 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 1730.7490 ms
+01/18/2021 21:45:38 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 1.6465 ms
+01/18/2021 21:45:39 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.4363 ms
+01/18/2021 21:45:39 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 2.1196 ms
+01/18/2021 21:45:40 HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 1.5698 ms
+01/18/2021 21:45:42 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 2659.8434 ms
+01/18/2021 21:46:19 Get Employee's Details
+01/18/2021 21:46:26 All Employee Details
+01/18/2021 21:46:26 HTTP "GET" "/api/Base" responded 200 in 16368.4147 ms
+01/18/2021 21:47:04 application startup
+01/18/2021 21:47:05 HTTP "GET" "/swagger" responded 301 in 40.7245 ms
+01/18/2021 21:47:05 HTTP "GET" "/swagger/index.html" responded 200 in 44.2805 ms
+01/18/2021 21:47:06 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 63.0322 ms
+01/18/2021 21:47:06 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 63.2969 ms
+01/18/2021 21:47:06 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 38.7152 ms
+01/18/2021 21:47:06 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 140.0202 ms
+01/18/2021 21:47:07 HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 5.3242 ms
+01/18/2021 21:49:31 Get Employee's Details
+01/18/2021 21:49:31 All Employee Details
+01/18/2021 21:49:31 HTTP "GET" "/api/Base" responded 200 in 391.4789 ms
+01/18/2021 21:54:19 this is weatherforecast
+01/18/2021 21:54:19 HTTP "GET" "/WeatherForecast" responded 200 in 37.2185 ms
+01/18/2021 21:54:42 Get Employee's Details
+01/18/2021 21:54:42 All Employee Details
+01/18/2021 21:54:42 HTTP "GET" "/api/Base" responded 200 in 45.6108 ms
+01/18/2021 21:55:39 Add Employee's Details
+01/18/2021 21:55:41 Added Employee's Details Succesfully
+01/18/2021 21:55:41 Employee's Details System.Collections.Generic.List`1[CommonLayer.Responce.EmployeeResponce]
+01/18/2021 21:55:41 HTTP "POST" "/api/Base" responded 200 in 1679.1812 ms
+01/18/2021 21:55:48 Get Employee's Details
+01/18/2021 21:55:48 All Employee Details
+01/18/2021 21:55:48 HTTP "GET" "/api/Base" responded 200 in 12.2258 ms
+01/18/2021 22:13:28 Get Employee's Details
+01/18/2021 22:13:28 All Employee Details
+01/18/2021 22:13:28 HTTP "GET" "/api/Base" responded 200 in 121.5751 ms
+01/19/2021 09:45:26 application startup
+01/19/2021 09:45:32 Application startup exception
+System.InvalidOperationException: The CORS protocol does not allow specifying a wildcard (any) origin and credentials at the same time. Configure the CORS policy by listing individual origins if credentials needs to be supported.
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsPolicyBuilder.Build()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions.AddPolicy(String name, Action`1 configurePolicy)
+   at SeriloggerAPI.Startup.<>c.<ConfigureServices>b__4_0(CorsOptions options) in D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\Startup.cs:line 29
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.<>c__DisplayClass5_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsManager`1.Get(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsService..ctor(IOptions`1 options, ILoggerFactory loggerFactory)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+01/19/2021 09:45:33 app never starts
+System.InvalidOperationException: The CORS protocol does not allow specifying a wildcard (any) origin and credentials at the same time. Configure the CORS policy by listing individual origins if credentials needs to be supported.
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsPolicyBuilder.Build()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions.AddPolicy(String name, Action`1 configurePolicy)
+   at SeriloggerAPI.Startup.<>c.<ConfigureServices>b__4_0(CorsOptions options) in D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\Startup.cs:line 29
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.<>c__DisplayClass5_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsManager`1.Get(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsService..ctor(IOptions`1 options, ILoggerFactory loggerFactory)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at SeriloggerAPI.Program.Main(String[] args) in D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\Program.cs:line 29
+01/19/2021 09:47:01 application startup
+01/19/2021 09:50:11 application startup
+01/19/2021 09:50:29 HTTP "GET" "/swagger" responded 301 in 331.2763 ms
+01/19/2021 09:50:30 HTTP "GET" "/swagger/index.html" responded 200 in 305.0882 ms
+01/19/2021 09:50:30 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 423.9502 ms
+01/19/2021 09:50:30 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 501.1483 ms
+01/19/2021 09:50:31 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 596.8357 ms
+01/19/2021 09:50:31 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 178.4504 ms
+01/19/2021 09:50:32 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 2.6257 ms
+01/19/2021 09:50:32 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.2088 ms
+01/19/2021 09:50:32 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.1925 ms
+01/19/2021 09:50:33 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 507.8626 ms
+01/19/2021 09:50:43 application startup
+01/19/2021 09:50:45 HTTP "GET" "/swagger/index.html" responded 200 in 82.4463 ms
+01/19/2021 09:50:45 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 155.4918 ms
+01/19/2021 09:50:53 Get Employee's Details
+01/19/2021 09:50:54 All Employee Details
+01/19/2021 09:50:54 HTTP "GET" "/api/Base" responded 200 in 1611.6924 ms
+01/19/2021 10:07:37 HTTP "OPTIONS" "/api/Base" responded 405 in 2.9454 ms
+01/19/2021 10:07:37 HTTP "OPTIONS" "/api/Base" responded 405 in 3.8826 ms
+01/19/2021 10:08:52 application startup
+01/19/2021 10:08:53 Application startup exception
+System.InvalidOperationException: The CORS protocol does not allow specifying a wildcard (any) origin and credentials at the same time. Configure the CORS policy by listing individual origins if credentials needs to be supported.
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsPolicyBuilder.Build()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions.AddPolicy(String name, Action`1 configurePolicy)
+   at SeriloggerAPI.Startup.<>c.<ConfigureServices>b__4_0(CorsOptions options) in D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\Startup.cs:line 29
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.<>c__DisplayClass5_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsManager`1.Get(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsService..ctor(IOptions`1 options, ILoggerFactory loggerFactory)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+01/19/2021 10:08:53 app never starts
+System.InvalidOperationException: The CORS protocol does not allow specifying a wildcard (any) origin and credentials at the same time. Configure the CORS policy by listing individual origins if credentials needs to be supported.
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsPolicyBuilder.Build()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions.AddPolicy(String name, Action`1 configurePolicy)
+   at SeriloggerAPI.Startup.<>c.<ConfigureServices>b__4_0(CorsOptions options) in D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\Startup.cs:line 29
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.<>c__DisplayClass5_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsManager`1.Get(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsService..ctor(IOptions`1 options, ILoggerFactory loggerFactory)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at SeriloggerAPI.Program.Main(String[] args) in D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\Program.cs:line 29
+01/19/2021 10:14:21 application startup
+01/19/2021 10:14:28 HTTP "GET" "/swagger" responded 301 in 17.5377 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/index.html" responded 200 in 63.3314 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 97.6729 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 97.8154 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 182.1796 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 39.5006 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 1.2239 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.1114 ms
+01/19/2021 10:14:29 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.0955 ms
+01/19/2021 10:14:30 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 156.0835 ms
+01/19/2021 10:18:46 application startup
+01/19/2021 10:18:52 this is weatherforecast
+01/19/2021 10:18:53 HTTP "GET" "/weatherforecast" responded 200 in 2416.0050 ms
+01/19/2021 10:18:53 HTTP "GET" "/favicon.ico" responded 404 in 17.0872 ms
+01/19/2021 10:19:24 application startup
+01/19/2021 10:22:42 application startup
+01/19/2021 10:22:45 this is weatherforecast
+01/19/2021 10:22:45 HTTP "GET" "/weatherforecast" responded 200 in 226.3415 ms
+01/19/2021 10:22:45 HTTP "GET" "/favicon.ico" responded 404 in 3.3720 ms
+01/19/2021 10:23:05 application startup
+01/19/2021 10:23:13 HTTP "GET" "/swagger" responded 301 in 20.5919 ms
+01/19/2021 10:23:13 HTTP "GET" "/swagger/index.html" responded 200 in 41.1462 ms
+01/19/2021 10:23:13 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 107.1964 ms
+01/19/2021 10:23:13 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 117.5420 ms
+01/19/2021 10:23:13 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 191.5077 ms
+01/19/2021 10:23:13 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 46.3968 ms
+01/19/2021 10:23:13 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 0.4015 ms
+01/19/2021 10:23:14 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 1.3914 ms
+01/19/2021 10:23:14 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.1049 ms
+01/19/2021 10:23:14 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 235.2748 ms
+01/19/2021 10:23:20 HTTP "OPTIONS" "/api/Base" responded 204 in 12.7264 ms
+01/19/2021 10:23:20 HTTP "OPTIONS" "/api/Base" responded 204 in 0.7426 ms
+01/19/2021 10:24:38 application startup
+01/19/2021 10:24:44 HTTP "GET" "/swagger" responded 301 in 19.5543 ms
+01/19/2021 10:24:44 HTTP "GET" "/swagger/index.html" responded 200 in 52.9713 ms
+01/19/2021 10:24:44 HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 152.3968 ms
+01/19/2021 10:24:44 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 150.7532 ms
+01/19/2021 10:24:44 HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 207.7786 ms
+01/19/2021 10:24:45 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 33.4649 ms
+01/19/2021 10:24:45 HTTP "GET" "/swagger/swagger-ui-bundle.js.map" responded 404 in 1.4703 ms
+01/19/2021 10:24:45 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.7147 ms
+01/19/2021 10:24:45 HTTP "GET" "/swagger/swagger-ui-standalone-preset.js.map" responded 404 in 0.1654 ms
+01/19/2021 10:24:45 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 210.3717 ms
+01/19/2021 10:24:52 HTTP "OPTIONS" "/api/Base" responded 204 in 6.5026 ms
+01/19/2021 10:24:52 HTTP "OPTIONS" "/api/Base" responded 204 in 7.5774 ms
+01/19/2021 10:24:58 Get Employee's Details
+01/19/2021 10:25:01 All Employee Details
+01/19/2021 10:25:02 HTTP "GET" "/api/Base" responded 200 in 9660.0116 ms
+01/19/2021 10:25:03 Get Employee's Details
+01/19/2021 10:25:04 All Employee Details
+01/19/2021 10:25:04 HTTP "GET" "/api/Base" responded 200 in 2733.9588 ms
+01/19/2021 10:25:27 application startup
+01/19/2021 10:25:28 HTTP "GET" "/swagger/index.html" responded 200 in 64.1185 ms
+01/19/2021 10:25:29 HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 105.5179 ms
+01/19/2021 10:25:35 HTTP "OPTIONS" "/api/Base" responded 204 in 44.1413 ms
+01/19/2021 10:25:35 HTTP "OPTIONS" "/api/Base" responded 204 in 47.5409 ms
+01/19/2021 10:25:35 Get Employee's Details
+01/19/2021 10:25:35 All Employee Details
+01/19/2021 10:25:35 HTTP "GET" "/api/Base" responded 200 in 523.4024 ms
+01/19/2021 10:25:35 Get Employee's Details
+01/19/2021 10:25:35 All Employee Details
+01/19/2021 10:25:35 HTTP "GET" "/api/Base" responded 200 in 23.9820 ms
+01/19/2021 10:26:09 HTTP "OPTIONS" "/api/Base" responded 204 in 1.1455 ms
+01/19/2021 10:26:09 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1288 ms
+01/19/2021 10:26:09 Get Employee's Details
+01/19/2021 10:26:09 All Employee Details
+01/19/2021 10:26:09 HTTP "GET" "/api/Base" responded 200 in 17.6454 ms
+01/19/2021 10:26:09 Get Employee's Details
+01/19/2021 10:26:09 All Employee Details
+01/19/2021 10:26:09 HTTP "GET" "/api/Base" responded 200 in 10.5433 ms
+01/19/2021 10:26:30 HTTP "OPTIONS" "/api/Base" responded 204 in 7.2602 ms
+01/19/2021 10:26:30 HTTP "OPTIONS" "/api/Base" responded 204 in 2.4071 ms
+01/19/2021 10:26:30 Get Employee's Details
+01/19/2021 10:26:30 All Employee Details
+01/19/2021 10:26:30 HTTP "GET" "/api/Base" responded 200 in 15.8262 ms
+01/19/2021 10:26:30 Get Employee's Details
+01/19/2021 10:26:30 All Employee Details
+01/19/2021 10:26:30 HTTP "GET" "/api/Base" responded 200 in 11.1100 ms
+01/19/2021 10:26:59 HTTP "OPTIONS" "/api/Base" responded 204 in 0.8377 ms
+01/19/2021 10:26:59 HTTP "OPTIONS" "/api/Base" responded 204 in 0.4078 ms
+01/19/2021 10:26:59 Get Employee's Details
+01/19/2021 10:26:59 All Employee Details
+01/19/2021 10:26:59 HTTP "GET" "/api/Base" responded 200 in 11.1182 ms
+01/19/2021 10:26:59 Get Employee's Details
+01/19/2021 10:26:59 All Employee Details
+01/19/2021 10:26:59 HTTP "GET" "/api/Base" responded 200 in 10.7968 ms
+01/19/2021 10:31:01 Get Employee's Details
+01/19/2021 10:31:01 All Employee Details
+01/19/2021 10:31:01 HTTP "GET" "/api/Base" responded 200 in 128.1640 ms
+01/19/2021 10:31:32 HTTP "OPTIONS" "/api/Base" responded 204 in 0.7546 ms
+01/19/2021 10:31:32 HTTP "OPTIONS" "/api/Base" responded 204 in 0.4240 ms
+01/19/2021 10:31:32 Get Employee's Details
+01/19/2021 10:31:32 All Employee Details
+01/19/2021 10:31:32 HTTP "GET" "/api/Base" responded 200 in 50.8955 ms
+01/19/2021 10:31:32 Get Employee's Details
+01/19/2021 10:31:32 All Employee Details
+01/19/2021 10:31:32 HTTP "GET" "/api/Base" responded 200 in 7.9556 ms
+01/19/2021 10:31:41 HTTP "OPTIONS" "/api/Base" responded 204 in 0.6399 ms
+01/19/2021 10:31:41 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1722 ms
+01/19/2021 10:31:41 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1720 ms
+01/19/2021 10:31:41 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1005 ms
+01/19/2021 10:31:41 Get Employee's Details
+01/19/2021 10:31:41 All Employee Details
+01/19/2021 10:31:41 HTTP "GET" "/api/Base" responded 200 in 27.9166 ms
+01/19/2021 10:31:41 Get Employee's Details
+01/19/2021 10:31:41 All Employee Details
+01/19/2021 10:31:41 HTTP "GET" "/api/Base" responded 200 in 41.1962 ms
+01/19/2021 10:31:41 Get Employee's Details
+01/19/2021 10:31:41 All Employee Details
+01/19/2021 10:31:41 HTTP "GET" "/api/Base" responded 200 in 7.6971 ms
+01/19/2021 10:31:41 Get Employee's Details
+01/19/2021 10:31:41 All Employee Details
+01/19/2021 10:31:41 HTTP "GET" "/api/Base" responded 200 in 19.5246 ms
+01/19/2021 10:32:04 HTTP "OPTIONS" "/api/Base" responded 204 in 0.9237 ms
+01/19/2021 10:32:04 HTTP "OPTIONS" "/api/Base" responded 204 in 0.4554 ms
+01/19/2021 10:32:04 HTTP "OPTIONS" "/api/Base" responded 204 in 0.3414 ms
+01/19/2021 10:32:04 HTTP "OPTIONS" "/api/Base" responded 204 in 0.4514 ms
+01/19/2021 10:32:04 Get Employee's Details
+01/19/2021 10:32:04 All Employee Details
+01/19/2021 10:32:04 HTTP "GET" "/api/Base" responded 200 in 24.6777 ms
+01/19/2021 10:32:04 Get Employee's Details
+01/19/2021 10:32:04 All Employee Details
+01/19/2021 10:32:04 HTTP "GET" "/api/Base" responded 200 in 17.4021 ms
+01/19/2021 10:32:04 Get Employee's Details
+01/19/2021 10:32:04 All Employee Details
+01/19/2021 10:32:04 HTTP "GET" "/api/Base" responded 200 in 11.1667 ms
+01/19/2021 10:32:04 Get Employee's Details
+01/19/2021 10:32:04 All Employee Details
+01/19/2021 10:32:04 HTTP "GET" "/api/Base" responded 200 in 11.3761 ms
+01/19/2021 10:32:26 HTTP "OPTIONS" "/api/Base" responded 204 in 0.8130 ms
+01/19/2021 10:32:26 HTTP "OPTIONS" "/api/Base" responded 204 in 0.5688 ms
+01/19/2021 10:32:26 HTTP "OPTIONS" "/api/Base" responded 204 in 1.4068 ms
+01/19/2021 10:32:26 HTTP "OPTIONS" "/api/Base" responded 204 in 0.7100 ms
+01/19/2021 10:32:26 Get Employee's Details
+01/19/2021 10:32:26 All Employee Details
+01/19/2021 10:32:26 HTTP "GET" "/api/Base" responded 200 in 22.6671 ms
+01/19/2021 10:32:26 Get Employee's Details
+01/19/2021 10:32:26 All Employee Details
+01/19/2021 10:32:26 HTTP "GET" "/api/Base" responded 200 in 17.2835 ms
+01/19/2021 10:32:26 Get Employee's Details
+01/19/2021 10:32:26 All Employee Details
+01/19/2021 10:32:26 HTTP "GET" "/api/Base" responded 200 in 7.4414 ms
+01/19/2021 10:32:26 Get Employee's Details
+01/19/2021 10:32:26 All Employee Details
+01/19/2021 10:32:26 HTTP "GET" "/api/Base" responded 200 in 9.4025 ms
+01/19/2021 10:32:30 Get Employee's Details
+01/19/2021 10:32:30 All Employee Details
+01/19/2021 10:32:30 HTTP "GET" "/api/Base" responded 200 in 90.6068 ms
+01/19/2021 10:32:31 Get Employee's Details
+01/19/2021 10:32:31 All Employee Details
+01/19/2021 10:32:31 HTTP "GET" "/api/Base" responded 200 in 55.3885 ms
+01/19/2021 10:32:31 Get Employee's Details
+01/19/2021 10:32:31 All Employee Details
+01/19/2021 10:32:31 HTTP "GET" "/api/Base" responded 200 in 37.7848 ms
+01/19/2021 10:32:31 Get Employee's Details
+01/19/2021 10:32:31 All Employee Details
+01/19/2021 10:32:31 HTTP "GET" "/api/Base" responded 200 in 17.9953 ms
+01/19/2021 10:32:45 HTTP "OPTIONS" "/api/Base" responded 204 in 0.4265 ms
+01/19/2021 10:32:45 Get Employee's Details
+01/19/2021 10:32:45 All Employee Details
+01/19/2021 10:32:45 HTTP "GET" "/api/Base" responded 200 in 8.6962 ms
+01/19/2021 10:32:45 Get Employee's Details
+01/19/2021 10:32:45 All Employee Details
+01/19/2021 10:32:45 HTTP "GET" "/api/Base" responded 200 in 7.5973 ms
+01/19/2021 10:41:06 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0666 ms
+01/19/2021 10:41:06 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1468 ms
+01/19/2021 10:41:06 Get Employee's Details
+01/19/2021 10:41:07 All Employee Details
+01/19/2021 10:41:07 HTTP "GET" "/api/Base" responded 200 in 648.0195 ms
+01/19/2021 10:41:07 Get Employee's Details
+01/19/2021 10:41:07 All Employee Details
+01/19/2021 10:41:07 HTTP "GET" "/api/Base" responded 200 in 24.5597 ms
+01/19/2021 10:41:07 Get Employee's Details
+01/19/2021 10:41:07 All Employee Details
+01/19/2021 10:41:07 HTTP "GET" "/api/Base" responded 200 in 25.9390 ms
+01/19/2021 10:41:07 Get Employee's Details
+01/19/2021 10:41:07 All Employee Details
+01/19/2021 10:41:07 HTTP "GET" "/api/Base" responded 200 in 27.1540 ms
+01/19/2021 10:41:40 HTTP "OPTIONS" "/api/Base" responded 204 in 0.2236 ms
+01/19/2021 10:41:40 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1229 ms
+01/19/2021 10:41:40 Get Employee's Details
+01/19/2021 10:41:40 All Employee Details
+01/19/2021 10:41:40 HTTP "GET" "/api/Base" responded 200 in 15.3166 ms
+01/19/2021 10:41:40 Get Employee's Details
+01/19/2021 10:41:40 All Employee Details
+01/19/2021 10:41:40 HTTP "GET" "/api/Base" responded 200 in 7.0550 ms
+01/19/2021 10:42:39 HTTP "OPTIONS" "/api/Base" responded 204 in 0.2996 ms
+01/19/2021 10:42:39 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1242 ms
+01/19/2021 10:42:39 Get Employee's Details
+01/19/2021 10:42:39 All Employee Details
+01/19/2021 10:42:39 HTTP "GET" "/api/Base" responded 200 in 12.0097 ms
+01/19/2021 10:42:39 Get Employee's Details
+01/19/2021 10:42:39 All Employee Details
+01/19/2021 10:42:39 HTTP "GET" "/api/Base" responded 200 in 38.8938 ms
+01/19/2021 10:46:57 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1595 ms
+01/19/2021 10:46:57 Get Employee's Details
+01/19/2021 10:46:57 All Employee Details
+01/19/2021 10:46:57 HTTP "GET" "/api/Base" responded 200 in 52.1260 ms
+01/19/2021 10:46:57 Get Employee's Details
+01/19/2021 10:46:57 All Employee Details
+01/19/2021 10:46:57 HTTP "GET" "/api/Base" responded 200 in 7.5429 ms
+01/19/2021 10:47:22 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1463 ms
+01/19/2021 10:47:22 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1106 ms
+01/19/2021 10:47:22 Get Employee's Details
+01/19/2021 10:47:22 All Employee Details
+01/19/2021 10:47:22 HTTP "GET" "/api/Base" responded 200 in 9.7884 ms
+01/19/2021 10:47:22 Get Employee's Details
+01/19/2021 10:47:22 All Employee Details
+01/19/2021 10:47:22 HTTP "GET" "/api/Base" responded 200 in 12.3988 ms
+01/19/2021 10:47:50 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1706 ms
+01/19/2021 10:47:50 HTTP "OPTIONS" "/api/Base" responded 204 in 0.7067 ms
+01/19/2021 10:47:50 Get Employee's Details
+01/19/2021 10:47:50 All Employee Details
+01/19/2021 10:47:50 HTTP "GET" "/api/Base" responded 200 in 19.4136 ms
+01/19/2021 10:47:50 Get Employee's Details
+01/19/2021 10:47:50 All Employee Details
+01/19/2021 10:47:50 HTTP "GET" "/api/Base" responded 200 in 13.2364 ms
+01/19/2021 10:48:08 HTTP "OPTIONS" "/api/Base" responded 204 in 0.3650 ms
+01/19/2021 10:48:08 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0924 ms
+01/19/2021 10:48:08 Get Employee's Details
+01/19/2021 10:48:08 All Employee Details
+01/19/2021 10:48:08 HTTP "GET" "/api/Base" responded 200 in 9.1215 ms
+01/19/2021 10:48:08 Get Employee's Details
+01/19/2021 10:48:08 All Employee Details
+01/19/2021 10:48:08 HTTP "GET" "/api/Base" responded 200 in 6.6406 ms
+01/19/2021 10:48:21 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1258 ms
+01/19/2021 10:48:21 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0781 ms
+01/19/2021 10:48:21 Get Employee's Details
+01/19/2021 10:48:21 All Employee Details
+01/19/2021 10:48:21 HTTP "GET" "/api/Base" responded 200 in 17.8615 ms
+01/19/2021 10:48:21 Get Employee's Details
+01/19/2021 10:48:21 All Employee Details
+01/19/2021 10:48:21 HTTP "GET" "/api/Base" responded 200 in 8.7899 ms
+01/19/2021 10:51:21 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1323 ms
+01/19/2021 10:51:21 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0673 ms
+01/19/2021 10:51:21 Get Employee's Details
+01/19/2021 10:51:21 All Employee Details
+01/19/2021 10:51:21 HTTP "GET" "/api/Base" responded 200 in 6.1676 ms
+01/19/2021 10:51:21 Get Employee's Details
+01/19/2021 10:51:21 All Employee Details
+01/19/2021 10:51:21 HTTP "GET" "/api/Base" responded 200 in 12.3146 ms
+01/19/2021 11:04:37 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1148 ms
+01/19/2021 11:04:37 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1147 ms
+01/19/2021 11:04:37 Get Employee's Details
+01/19/2021 11:04:37 All Employee Details
+01/19/2021 11:04:37 HTTP "GET" "/api/Base" responded 200 in 31.4024 ms
+01/19/2021 11:04:37 Get Employee's Details
+01/19/2021 11:04:37 All Employee Details
+01/19/2021 11:04:37 HTTP "GET" "/api/Base" responded 200 in 26.5885 ms
+01/19/2021 11:16:09 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1289 ms
+01/19/2021 11:16:09 Get Employee's Details
+01/19/2021 11:16:09 All Employee Details
+01/19/2021 11:16:09 HTTP "GET" "/api/Base" responded 200 in 53.3126 ms
+01/19/2021 11:16:09 Get Employee's Details
+01/19/2021 11:16:09 All Employee Details
+01/19/2021 11:16:09 HTTP "GET" "/api/Base" responded 200 in 6.4346 ms
+01/19/2021 11:17:59 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1334 ms
+01/19/2021 11:17:59 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0700 ms
+01/19/2021 11:17:59 Get Employee's Details
+01/19/2021 11:17:59 All Employee Details
+01/19/2021 11:17:59 HTTP "GET" "/api/Base" responded 200 in 8.3514 ms
+01/19/2021 11:17:59 Get Employee's Details
+01/19/2021 11:17:59 All Employee Details
+01/19/2021 11:17:59 HTTP "GET" "/api/Base" responded 200 in 11.7365 ms
+01/19/2021 11:18:16 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1541 ms
+01/19/2021 11:18:16 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0696 ms
+01/19/2021 11:18:16 Get Employee's Details
+01/19/2021 11:18:16 All Employee Details
+01/19/2021 11:18:16 HTTP "GET" "/api/Base" responded 200 in 8.4943 ms
+01/19/2021 11:18:16 Get Employee's Details
+01/19/2021 11:18:16 All Employee Details
+01/19/2021 11:18:16 HTTP "GET" "/api/Base" responded 200 in 8.9371 ms
+01/19/2021 11:19:06 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1207 ms
+01/19/2021 11:19:06 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0981 ms
+01/19/2021 11:19:06 Get Employee's Details
+01/19/2021 11:19:06 All Employee Details
+01/19/2021 11:19:06 HTTP "GET" "/api/Base" responded 200 in 9.5095 ms
+01/19/2021 11:19:06 Get Employee's Details
+01/19/2021 11:19:06 All Employee Details
+01/19/2021 11:19:06 HTTP "GET" "/api/Base" responded 200 in 10.7325 ms
+01/19/2021 11:19:09 Get Employee's Details
+01/19/2021 11:19:09 All Employee Details
+01/19/2021 11:19:09 HTTP "GET" "/api/Base" responded 200 in 14.8011 ms
+01/19/2021 11:19:09 Get Employee's Details
+01/19/2021 11:19:09 All Employee Details
+01/19/2021 11:19:09 HTTP "GET" "/api/Base" responded 200 in 9.8149 ms
+01/19/2021 11:19:12 HTTP "OPTIONS" "/api/Base" responded 204 in 1.0703 ms
+01/19/2021 11:19:12 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1001 ms
+01/19/2021 11:19:12 Get Employee's Details
+01/19/2021 11:19:12 All Employee Details
+01/19/2021 11:19:12 HTTP "GET" "/api/Base" responded 200 in 14.8171 ms
+01/19/2021 11:19:12 Get Employee's Details
+01/19/2021 11:19:12 All Employee Details
+01/19/2021 11:19:12 HTTP "GET" "/api/Base" responded 200 in 10.5386 ms
+01/19/2021 11:21:38 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1451 ms
+01/19/2021 11:21:38 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0976 ms
+01/19/2021 11:21:38 Get Employee's Details
+01/19/2021 11:21:38 All Employee Details
+01/19/2021 11:21:38 HTTP "GET" "/api/Base" responded 200 in 14.1398 ms
+01/19/2021 11:21:38 Get Employee's Details
+01/19/2021 11:21:38 All Employee Details
+01/19/2021 11:21:38 HTTP "GET" "/api/Base" responded 200 in 10.7641 ms
+01/19/2021 11:22:01 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0957 ms
+01/19/2021 11:22:01 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0717 ms
+01/19/2021 11:22:01 Get Employee's Details
+01/19/2021 11:22:01 All Employee Details
+01/19/2021 11:22:01 HTTP "GET" "/api/Base" responded 200 in 11.6617 ms
+01/19/2021 11:22:01 Get Employee's Details
+01/19/2021 11:22:01 All Employee Details
+01/19/2021 11:22:01 HTTP "GET" "/api/Base" responded 200 in 11.5736 ms
+01/19/2021 11:22:04 Get Employee's Details
+01/19/2021 11:22:04 All Employee Details
+01/19/2021 11:22:04 HTTP "GET" "/api/Base" responded 200 in 16.5990 ms
+01/19/2021 11:22:04 Get Employee's Details
+01/19/2021 11:22:04 All Employee Details
+01/19/2021 11:22:04 HTTP "GET" "/api/Base" responded 200 in 11.2364 ms
+01/19/2021 11:25:11 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1569 ms
+01/19/2021 11:25:11 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0885 ms
+01/19/2021 11:25:11 Get Employee's Details
+01/19/2021 11:25:11 All Employee Details
+01/19/2021 11:25:11 HTTP "GET" "/api/Base" responded 200 in 12.2195 ms
+01/19/2021 11:25:11 Get Employee's Details
+01/19/2021 11:25:11 All Employee Details
+01/19/2021 11:25:11 HTTP "GET" "/api/Base" responded 200 in 13.2637 ms
+01/19/2021 11:26:20 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1581 ms
+01/19/2021 11:26:20 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0910 ms
+01/19/2021 11:26:20 Get Employee's Details
+01/19/2021 11:26:20 All Employee Details
+01/19/2021 11:26:20 HTTP "GET" "/api/Base" responded 200 in 12.1422 ms
+01/19/2021 11:26:20 Get Employee's Details
+01/19/2021 11:26:20 All Employee Details
+01/19/2021 11:26:20 HTTP "GET" "/api/Base" responded 200 in 12.2408 ms
+01/19/2021 11:28:54 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0964 ms
+01/19/2021 11:28:55 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0783 ms
+01/19/2021 11:28:55 Get Employee's Details
+01/19/2021 11:28:55 All Employee Details
+01/19/2021 11:28:55 HTTP "GET" "/api/Base" responded 200 in 14.7556 ms
+01/19/2021 11:28:55 Get Employee's Details
+01/19/2021 11:28:55 All Employee Details
+01/19/2021 11:28:55 HTTP "GET" "/api/Base" responded 200 in 23.4113 ms
+01/19/2021 11:29:16 HTTP "OPTIONS" "/api/Base" responded 204 in 0.7624 ms
+01/19/2021 11:29:16 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1303 ms
+01/19/2021 11:29:16 Get Employee's Details
+01/19/2021 11:29:16 All Employee Details
+01/19/2021 11:29:16 HTTP "GET" "/api/Base" responded 200 in 9.9066 ms
+01/19/2021 11:29:16 Get Employee's Details
+01/19/2021 11:29:16 All Employee Details
+01/19/2021 11:29:16 HTTP "GET" "/api/Base" responded 200 in 15.4083 ms
+01/19/2021 11:30:38 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1343 ms
+01/19/2021 11:30:38 HTTP "OPTIONS" "/api/Base" responded 204 in 0.2477 ms
+01/19/2021 11:30:38 Get Employee's Details
+01/19/2021 11:30:38 All Employee Details
+01/19/2021 11:30:38 HTTP "GET" "/api/Base" responded 200 in 12.8410 ms
+01/19/2021 11:30:38 Get Employee's Details
+01/19/2021 11:30:38 All Employee Details
+01/19/2021 11:30:38 HTTP "GET" "/api/Base" responded 200 in 11.7994 ms
+01/19/2021 11:30:41 Get Employee's Details
+01/19/2021 11:30:41 All Employee Details
+01/19/2021 11:30:41 HTTP "GET" "/api/Base" responded 200 in 15.5644 ms
+01/19/2021 11:30:41 Get Employee's Details
+01/19/2021 11:30:41 All Employee Details
+01/19/2021 11:30:41 HTTP "GET" "/api/Base" responded 200 in 15.6488 ms
+01/19/2021 11:55:12 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1277 ms
+01/19/2021 11:55:12 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0776 ms
+01/19/2021 11:55:12 Get Employee's Details
+01/19/2021 11:55:12 All Employee Details
+01/19/2021 11:55:12 HTTP "GET" "/api/Base" responded 200 in 192.8077 ms
+01/19/2021 11:55:12 Get Employee's Details
+01/19/2021 11:55:12 All Employee Details
+01/19/2021 11:55:12 HTTP "GET" "/api/Base" responded 200 in 18.4628 ms
+01/19/2021 11:55:15 Get Employee's Details
+01/19/2021 11:55:15 All Employee Details
+01/19/2021 11:55:15 HTTP "GET" "/api/Base" responded 200 in 16.2739 ms
+01/19/2021 11:55:15 Get Employee's Details
+01/19/2021 11:55:15 All Employee Details
+01/19/2021 11:55:15 HTTP "GET" "/api/Base" responded 200 in 10.7762 ms
+01/19/2021 11:55:24 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0811 ms
+01/19/2021 11:55:24 HTTP "OPTIONS" "/api/Base" responded 204 in 1.1999 ms
+01/19/2021 11:55:24 Get Employee's Details
+01/19/2021 11:55:24 All Employee Details
+01/19/2021 11:55:24 HTTP "GET" "/api/Base" responded 200 in 10.9160 ms
+01/19/2021 11:55:24 Get Employee's Details
+01/19/2021 11:55:24 All Employee Details
+01/19/2021 11:55:24 HTTP "GET" "/api/Base" responded 200 in 10.2221 ms
+01/19/2021 11:55:27 Get Employee's Details
+01/19/2021 11:55:27 All Employee Details
+01/19/2021 11:55:27 HTTP "GET" "/api/Base" responded 200 in 14.3362 ms
+01/19/2021 11:55:27 Get Employee's Details
+01/19/2021 11:55:27 All Employee Details
+01/19/2021 11:55:27 HTTP "GET" "/api/Base" responded 200 in 15.1548 ms
+01/19/2021 11:55:29 Get Employee's Details
+01/19/2021 11:55:29 All Employee Details
+01/19/2021 11:55:29 HTTP "GET" "/api/Base" responded 200 in 16.0886 ms
+01/19/2021 11:55:29 Get Employee's Details
+01/19/2021 11:55:29 All Employee Details
+01/19/2021 11:55:29 HTTP "GET" "/api/Base" responded 200 in 12.2207 ms
+01/19/2021 11:55:48 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0801 ms
+01/19/2021 11:55:48 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0656 ms
+01/19/2021 11:55:48 Get Employee's Details
+01/19/2021 11:55:48 All Employee Details
+01/19/2021 11:55:48 HTTP "GET" "/api/Base" responded 200 in 6.5782 ms
+01/19/2021 11:55:48 Get Employee's Details
+01/19/2021 11:55:48 All Employee Details
+01/19/2021 11:55:48 HTTP "GET" "/api/Base" responded 200 in 12.5809 ms
+01/19/2021 11:55:58 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0846 ms
+01/19/2021 11:55:58 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0767 ms
+01/19/2021 11:55:58 Get Employee's Details
+01/19/2021 11:55:58 All Employee Details
+01/19/2021 11:55:58 HTTP "GET" "/api/Base" responded 200 in 8.5459 ms
+01/19/2021 11:55:58 Get Employee's Details
+01/19/2021 11:55:58 All Employee Details
+01/19/2021 11:55:58 HTTP "GET" "/api/Base" responded 200 in 12.3335 ms
+01/19/2021 11:56:12 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1006 ms
+01/19/2021 11:56:12 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0988 ms
+01/19/2021 11:56:12 Get Employee's Details
+01/19/2021 11:56:12 All Employee Details
+01/19/2021 11:56:12 HTTP "GET" "/api/Base" responded 200 in 7.2859 ms
+01/19/2021 11:56:12 Get Employee's Details
+01/19/2021 11:56:12 All Employee Details
+01/19/2021 11:56:12 HTTP "GET" "/api/Base" responded 200 in 14.8785 ms
+01/19/2021 11:57:00 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1406 ms
+01/19/2021 11:57:00 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0802 ms
+01/19/2021 11:57:00 Get Employee's Details
+01/19/2021 11:57:00 All Employee Details
+01/19/2021 11:57:00 HTTP "GET" "/api/Base" responded 200 in 12.8391 ms
+01/19/2021 11:57:00 Get Employee's Details
+01/19/2021 11:57:00 All Employee Details
+01/19/2021 11:57:00 HTTP "GET" "/api/Base" responded 200 in 11.6561 ms
+01/19/2021 12:00:05 HTTP "OPTIONS" "/api/Base" responded 204 in 0.2804 ms
+01/19/2021 12:00:05 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1158 ms
+01/19/2021 12:00:05 Get Employee's Details
+01/19/2021 12:00:05 All Employee Details
+01/19/2021 12:00:05 HTTP "GET" "/api/Base" responded 200 in 10.9438 ms
+01/19/2021 12:00:05 Get Employee's Details
+01/19/2021 12:00:05 All Employee Details
+01/19/2021 12:00:05 HTTP "GET" "/api/Base" responded 200 in 8.5923 ms
+01/19/2021 12:25:43 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1455 ms
+01/19/2021 12:25:43 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1041 ms
+01/19/2021 12:25:43 Get Employee's Details
+01/19/2021 12:25:43 All Employee Details
+01/19/2021 12:25:43 HTTP "GET" "/api/Base" responded 200 in 60.3208 ms
+01/19/2021 12:25:43 Get Employee's Details
+01/19/2021 12:25:43 All Employee Details
+01/19/2021 12:25:43 HTTP "GET" "/api/Base" responded 200 in 11.0276 ms
+01/19/2021 12:49:25 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1597 ms
+01/19/2021 12:49:25 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1597 ms
+01/19/2021 12:49:25 Get Employee's Details
+01/19/2021 12:49:25 All Employee Details
+01/19/2021 12:49:25 HTTP "GET" "/api/Base" responded 200 in 18.1468 ms
+01/19/2021 12:49:25 Get Employee's Details
+01/19/2021 12:49:25 All Employee Details
+01/19/2021 12:49:25 HTTP "GET" "/api/Base" responded 200 in 8.3087 ms
+01/19/2021 12:52:45 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1995 ms
+01/19/2021 12:52:45 HTTP "OPTIONS" "/api/Base" responded 204 in 0.0716 ms
+01/19/2021 12:52:45 Get Employee's Details
+01/19/2021 12:52:45 All Employee Details
+01/19/2021 12:52:45 HTTP "GET" "/api/Base" responded 200 in 37.6736 ms
+01/19/2021 12:52:45 Get Employee's Details
+01/19/2021 12:52:45 All Employee Details
+01/19/2021 12:52:45 HTTP "GET" "/api/Base" responded 200 in 20.1424 ms
+01/19/2021 12:53:09 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1243 ms
+01/19/2021 12:53:09 HTTP "OPTIONS" "/api/Base" responded 204 in 0.1542 ms
+01/19/2021 12:53:09 Get Employee's Details
+01/19/2021 12:53:09 All Employee Details
+01/19/2021 12:53:09 HTTP "GET" "/api/Base" responded 200 in 8.4749 ms
+01/19/2021 12:53:09 Get Employee's Details
+01/19/2021 12:53:09 All Employee Details
+01/19/2021 12:53:09 HTTP "GET" "/api/Base" responded 200 in 10.5357 ms
+01/19/2021 12:53:13 Get Employee's Details
+01/19/2021 12:53:13 All Employee Details
+01/19/2021 12:53:13 HTTP "GET" "/api/Base" responded 200 in 12.2690 ms
+01/19/2021 12:53:13 Get Employee's Details
+01/19/2021 12:53:13 All Employee Details
+01/19/2021 12:53:13 HTTP "GET" "/api/Base" responded 200 in 9.3541 ms
+01/19/2021 12:53:42 HTTP "OPTIONS" "/api/Base" responded 204 in 0.4991 ms
+01/19/2021 12:53:43 Add Employee's Details
+01/19/2021 12:53:45 Added Employee's Details Succesfully
+01/19/2021 12:53:45 Employee's Details System.Collections.Generic.List`1[CommonLayer.Responce.EmployeeResponce]
+01/19/2021 12:53:45 HTTP "POST" "/api/Base" responded 200 in 2034.2020 ms

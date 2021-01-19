@@ -1,0 +1,18 @@
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

@@ -1,0 +1,112 @@
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.exe
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.deps.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.runtimeconfig.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.runtimeconfig.dev.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.csprojAssemblyReference.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.AssemblyInfoInputs.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.AssemblyInfo.cs
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SeriloggerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SeriloggerAPI.StaticWebAssets.xml
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.genruntimeconfig.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.csproj.CopyComplete
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\logger.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.exe
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.deps.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.runtimeconfig.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.runtimeconfig.dev.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\SeriloggerAPI.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.csprojAssemblyReference.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.AssemblyInfoInputs.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.AssemblyInfo.cs
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.csproj.CoreCompileInputs.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.RazorTargetAssemblyInfo.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.csproj.CopyComplete
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SeriloggerAPI.StaticWebAssets.Manifest.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SeriloggerAPI.StaticWebAssets.xml
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\obj\Debug\netcoreapp3.1\SeriloggerAPI.genruntimeconfig.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\SeriloggerAPI\bin\Debug\netcoreapp3.1\logger.json

@@ -1,0 +1,24 @@
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vikrant Chitte\Source\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\serilog local implementation\serrilog_sample\SeriloggerAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
